@@ -1,31 +1,25 @@
 # launchPad
-Wenzel's launch pad to open websites. I am tired of syncing websites among my browsers, so I build this repo to make it convenient to me! If you like this idea, go and fork this.
 
-[TOC]
 
-## Daily
+## 日常
 
-- [知乎](http://www.zhihu.com/)
-- [QQ 邮箱](http://mail.qq.com/)
-- [163 邮箱](http://mail.163.com)
+最常用的网站
 
-## Design
+- [Teambition](http://www.teambition.com)
+- [Facebook](https://www.facebook.com)
+- [GItHub](https://github.com/)
+- [Quora](https://www.quora.com)
+- [Twitter](https://twitter.com)
 
-- [花瓣网](http://huaban.com/)
-- [设计订阅](http://idesign.qq.com/)
-- [设计派](http://www.shejipai.cn/)
-- [腾讯 ISUX](http://isux.tencent.com/)
-- [优设](http://www.uisdc.com/)
-- [站酷](http://www.zcool.com.cn/)
+## 设计
+
 - [Behance](https://www.behance.net/)
 - [Dribbble](https://dribbble.com/)
 - [Flat UI](http://flatui.com/)
 - [InVision](http://www.invisionapp.com/)
 - [Pinterest](https://www.pinterest.com/)
-- [UI中国](http://www.ui.cn/)
-- [Pinterest: Discover and save creative ideas](https://www.pinterest.com/)
 
-## Dev
+## 开发
 
 - [唐巧的技术博客](http://www.devtang.com/)
 - [Kevin Blog](http://imkevin.me/?from=inf&wvr=5&loc=infblog)
@@ -56,14 +50,11 @@ Wenzel's launch pad to open websites. I am tired of syncing websites among my br
 - [猿圈](http://www.oxcoder.com/index.htm)
 - [CSDN.NET](http://www.csdn.net/)
 - [Dash User Guide](https://kapeli.com/dash_guide)
-- [GitHub](https://github.com/)
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 - [SegmentFault](http://segmentfault.com/?utm_source=weekly&utm_medium=email&utm_campaign=email_weekly)
 - [Udacity](https://www.udacity.com/)
-- [V2EX](http://v2ex.com/)
-- [API Store_为开发者提供最全面的API服务](http://apistore.baidu.com/)
 
-## Product Manaement
+## 产品管理
 
 - [36氪](http://36kr.com/)
 - [产品100](http://www.chanpin100.com/)
@@ -73,16 +64,3 @@ Wenzel's launch pad to open websites. I am tired of syncing websites among my br
 - [苏杰博客](http://iamsujie.com/)
 - [钛媒体](http://www.tmtpost.com/)
 - [PMcaff产品经理社区](http://www.pmcaff.com/portal.php)
-
-## Social
-
-- [新浪微博](http://d.weibo.com/)
-- [知乎](http://www.zhihu.com/)
-- [Quora](https://www.quora.com/)
-- [Tumblr](https://www.tumblr.com/dashboard)
-
-## Wanna make contributions?
-
-If you have some websites that you do like, please send me an email at wendzhue@qq.com, it would be on the list Above!
-
-Wenzel - August 2015
