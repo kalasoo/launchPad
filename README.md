@@ -43,6 +43,7 @@
 - [Ray Wenderlich](http://www.raywenderlich.com/)
 - [The Swift Programming Language: The - Basics](ing_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-ID309)
 - [Xcode](http://www.cocoachina.com/special/xcode/)
+- [稀土掘金](http://gold.xitu.io/)
 - [极客学院](http://www.jikexueyuan.com/?hmsr=baidu_sem_pinpai_index)
 - [开发者头条](http://toutiao.io/)
 - [开源中国](http://www.oschina.net/)
